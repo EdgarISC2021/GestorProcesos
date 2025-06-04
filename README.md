@@ -128,7 +128,7 @@ El desarrollador cuenta con experiencia previa trabajando con Microsoft Azure, c
 🌐 **Proyecto en Azure:** [https://alifrutdigital.azurewebsites.net](https://alifrutdigital.azurewebsites.net)
 **Credenciales de prueba:**
 - **Usuario:** Edgar
-- **Contraseña:** 123
+- **Contraseña:** Bared664
 ## Configuración de Base de Datos
 
 La base de datos MySQL está configurada para ejecutarse en Azure Database for MySQL, proporcionando:
